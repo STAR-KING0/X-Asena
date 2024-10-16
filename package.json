@@ -5,7 +5,7 @@
  "main": "index.js",
  "author": "haki",
  "directories": {
-    "lib": "lib"
+    "lib": "lib",
  "scripts": {
   "start": "pm2 start . --attach --name hk-md",
   "stop": "pm2 stop hk-md"
